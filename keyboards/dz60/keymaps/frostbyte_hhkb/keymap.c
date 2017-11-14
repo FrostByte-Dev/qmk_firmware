@@ -45,7 +45,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
       ______,  KC_F1,      KC_F2,      KC_F3,      KC_F4,      KC_F5,  KC_F6,      KC_F7,   KC_F8,   KC_F9,   KC_F10, KC_F11, KC_F12,  LCTL(KC_GRV),  ______, \
       ______,  LCTL(KC_Q), LCTL(KC_W), LCTL(KC_E), LCTL(KC_R), ______, ______,     KC_HOME, KC_UP,   KC_END,  ______, ______, ______,  KC_DEL,  \
       ______,  LCTL(KC_A), LCTL(KC_S), LCTL(KC_D), LCTL(KC_F), ______, ______,     KC_LEFT, KC_DOWN, KC_RGHT, ______, ______, ______,   \
-      ______,  LCTL(KC_Z), LCTL(KC_X), LCTL(KC_C), LCTL(KC_V), ______, LCTL(KC_N), ______,  ______,  ______,  ______, ______, ______, ______,  \
+      ______,  ______,     LCTL(KC_Z), LCTL(KC_X), LCTL(KC_C), LCTL(KC_V), ______, LCTL(KC_N), ______,  ______,  ______,  ______, ______, ______,  \
                ______,  ______,                                ______,                                        ______, ______ \
       ),
 
