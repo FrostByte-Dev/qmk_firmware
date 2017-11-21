@@ -6,6 +6,8 @@
 
 #define ______ KC_TRNS
 
+// This is my layout for the Tina C (60% with symmetrical blockers) that uses split backspace and split right shift
+
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /*
  * ,-----------------------------------------------------------------------------------------.

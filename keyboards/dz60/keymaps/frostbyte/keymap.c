@@ -6,6 +6,9 @@
 
 #define ______ KC_TRNS
 
+// This is my layout for standard 60% keyboards that uses split-backspace and allows for split right shift.
+//  For use with TKL keysets where I do not have non standard and winkeyless modifiers.
+
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /*
  * ,-----------------------------------------------------------------------------------------.
@@ -17,7 +20,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  * |-----------------------------------------------------------------------------------------+
  * | Shift     |  Z  |  X  |  C  |  V  |  B  |  N  |  M  |  ,  |  .  |  /  | RShift    | FN  |
  * |-----------------------------------------------------------------------------------------+
- * |LCtl | LGui | LAlt |                Space                  | RAlt | RGui | RMenu | RCtrl |
+ * |LCtl | LGui | LAlt |                Space                   | RAlt | RGui |  FN  | RCtrl |
  * `-----------------------------------------------------------------------------------------'
  */
   [_BASE] = KEYMAP(
