@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-mechmini
-=======
 Mechmini
-========
->>>>>>> e956c11bc96814872b142a8f97e03e2935d285b6
 
 A 40% compact ortholinear/staggered keyboard. 
 
